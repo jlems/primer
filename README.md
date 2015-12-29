@@ -1,2 +1,2 @@
 # primer
-C++ primer problems
+C++ primer problems and practicing with github
